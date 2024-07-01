@@ -5,7 +5,7 @@ import './index.css';
 
 const Footer = () => (
   <div className="footer">
-    <p>© 2017 Copyright Lydia Hallie</p>
+    <p>React ECommerce WebApp developed by SHASHANK KENY for Solar Square</p>
   </div>
 )
 
